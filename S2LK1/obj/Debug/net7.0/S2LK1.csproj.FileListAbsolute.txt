@@ -1,0 +1,15 @@
+/Users/klausreinherz/Projects/S2LK1/S2LK1/bin/Debug/net7.0/S2LK1
+/Users/klausreinherz/Projects/S2LK1/S2LK1/bin/Debug/net7.0/S2LK1.deps.json
+/Users/klausreinherz/Projects/S2LK1/S2LK1/bin/Debug/net7.0/S2LK1.runtimeconfig.json
+/Users/klausreinherz/Projects/S2LK1/S2LK1/bin/Debug/net7.0/S2LK1.dll
+/Users/klausreinherz/Projects/S2LK1/S2LK1/bin/Debug/net7.0/S2LK1.pdb
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.csproj.AssemblyReference.cache
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.AssemblyInfoInputs.cache
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.AssemblyInfo.cs
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.csproj.CoreCompileInputs.cache
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.dll
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/refint/S2LK1.dll
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.pdb
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/S2LK1.genruntimeconfig.cache
+/Users/klausreinherz/Projects/S2LK1/S2LK1/obj/Debug/net7.0/ref/S2LK1.dll
